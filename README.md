@@ -22,7 +22,7 @@
 
 <details>
 <summary>Link do demo</summary>
-
+<p>https://w6xkei82v8bq5us7kjpt5z.streamlit.app/</p>
 </details>
 
 <details>
