@@ -5,7 +5,9 @@
 <summary>Główne informacje</summary>
 <p>Aplikacja webowa wykonana w Pythonie przy uzyciue Streamlit. Z jej pomocą mamy dostęp do podstawowych danych statystycznych pobranych z API</p>
 <b>Zrzut ekranu</b>
-  (assets/screenshot.png)
+<p align="center">
+  <img src="assets/screenshot.png" alt="Zrzut ekranu aplikacji" width="600">
+</p>
 </details>
 
 <details>
