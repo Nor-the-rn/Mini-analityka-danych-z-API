@@ -3,7 +3,7 @@
 
 <details>
 <summary>Główne informacje</summary>
-<p>Aplikacja webowa wykonana w Pythonie przy uzyciue Streamlit. Z jej pomocą mamy dostęp do podstawowych danych statystycznych pobranych z API https://jsonplaceholder.typicode.com.</p>
+<p>Aplikacja webowa wykonana w Pythonie przy uzyciue Streamlit. Z jej pomocą mamy dostęp do podstawowych danych statystycznych pobranych z API</p>
 <b>Zrzut ekranu</b>
   (assets/screenshot.png)
 </details>
